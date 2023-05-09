@@ -179,4 +179,5 @@ console.log()
 console.log()
 console.log()
 console.log()
-console.log()
+let test = 0;
+let essai = "Hello World";
